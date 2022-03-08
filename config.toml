@@ -1,4 +1,4 @@
-baseURL = 'http://annisatahira.github.io/quickstart-hugo/'
+baseURL = 'http://annisatahira.github.io/quickstart-hugo'
 languageCode = 'en-us'
 title = 'Belajar Hugo Site'
 theme = 'LoveIt'
